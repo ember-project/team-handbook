@@ -14,7 +14,7 @@
 - Glimmer
 - Fastboot
 
-## Working Groups (as of 4/12/19)
+## Strike Teams/Working Groups (as of 4/12/19)
 
 Team | Purpose | Target End Date
 --- | --- | ---
