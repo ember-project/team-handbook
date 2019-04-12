@@ -16,7 +16,8 @@
 
 ## Working Groups (as of 4/12/19)
 
-Team | Purpose | Target End Date |
+Team | Purpose | Target End Date
+--- | --- | ---
 website | design and development of website re-design | August 2019
 marketing | marketing of Ember for Octane edition | TBD
 Octane | work on the Octane edition of Ember | August 2019
