@@ -6,22 +6,22 @@ Providing the content and governance process proposals is the responsibility of 
 
 ## Outline
 - Teams
-  - core teams
-  - roles and responsibilities
-  - joining a team
-  - support & mentoring
-  - alumnization
-  - conflict(s) of interest
+  - [Ember teams](teams/ember-teams.md)
+  - [roles and responsibilities](teams/roles-and-responsibilities.md)
+  - [joining a team](teams/joining-a-team.md)
+  - [support & mentoring](teams/support-and-mentoring.md)
+  - [alumnization](teams/alumnization.md)
+  - [conflict(s) of interest](teams/conflicts-of-interest.md)
 - Engineering Process
-  - RFCs
-  - Consensus-based decision model
-  - Release model
+  - [RFCs](engineering-process/RFCs.md)
+  - [Consensus-based decision model](engineering-process/decision-making.md)
+  - [Release model](engineering-process/releases.md)
 - Meetings
-  - schedule/cadence
-  - face-to-face meetings
-  - agenda process
+  - [schedule/cadence](meetings/schedule.md)
+  - [face-to-face meetings](meetings/face-to-face.md)
+  - [meeting protocols](meetings/meeting-protocols.md)
 - Branding
-  - trademark information
-  - domain names
-- Information
-  - official Ember Orgs
+  - [trademark information](branding/trademark-information.md)
+  - [domain names](branding/domain-names.md)
+
+ 
