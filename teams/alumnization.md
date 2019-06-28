@@ -3,7 +3,6 @@ There comes a time for many core contributors where they no longer contribute to
 
 Alumnization is never a punishment or penalty, nor are there any real negative impacts. It’s simply an updating of our roster to be a reflection of reality. Alumni still benefit from the reputation boost of having been on the Core Team, they remain on the website (moved to the Alumni section), and permissions aren’t generally changed (of course, in cases where security is a concern, they may). The specific details of any post-alumnization technical changes happen on the per-core-team level. 
 
-
 ## When should someone Alumnize?
 The answer to this is very case-by-case specific, but in general, it’s up to individuals to be honest with themselves about their ability to contribute. It’s also up to each team to be cognizant of who is and isn’t around, so they can plan their work around alumnization and reliable availability.
 
@@ -24,3 +23,6 @@ We want to propose the creation of a dedicated Alumna process for any former tea
 Releasing the blog post will act as the official announcement of a new Alumnum and will further the recognition of the work of this individual as soon as the change of team member status is official.
 
 An open question that still remains is, if we want to aim to make current Alumna part of this new process as well or if this new process is something we would like to leverage for future team members who halt their OSS work as part of an Ember Core team. This point is up for another, future discussion.
+
+## Implementation
+If the Alumni process needs to occur, someone from that team should start the conversation. If the person that _should_ have the conversation is unable or unwilling to do so, they should give someone else on the team the opportunity to start the conversation.
