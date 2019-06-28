@@ -12,3 +12,15 @@ If someone goes on a planned vacation for three months with a set return point, 
 Historically, folks have also stepped up to alumnize in advance of disconnecting. “I’m getting a new job, and it doesn’t use Ember, and it isn’t really likely that I’ll be around much,” for example, has happened a few times. 
 
 Alumizing allows us to send folks off with a big thank you, and triggers a few specific happenings (see: what happens?). 
+
+Active contributors to a project, including Core team members, might take the space and time to step away from an open-source project for various reasons: changes in their professional or personal life, taking on other new open-source challenges or simply wanting to take a break might affect the amount of disposable time which they have to contribute to an open-source project and therefore also their decision to stay at or step down from a role in OSS. We understand that stepping away from a role such as a Ember Core team membership might be necessary for individuals at any time point in their life, that fluctuations in the team structure are a normal part of OSS and expected.
+
+We realise that there is currently little to no ceremony involved in the Alumna process itself. The Ember Team page features a list of previous team contributors, but the time point at which individuals step down from a team role and also the topic of their involvement in the Ember Team still remains unknown to the majority of the community. Yet, we feel that honoring the amount of work that former team members have put into the project is crucial. And we believe that this not only involves pointing out that they worked as part of an Ember Core Team, but also highlighting which kind of contributions have been made by them.
+
+We want to propose the creation of a dedicated Alumna process for any former team members who would like to participate. The new process aims to honour the work by previous Core contributors more visibly and more explicitly. This new process would include:
+- addition of name & picture of the former team member in the Ember Alumnae & Alumni section on the Ember Team page
+- a dedicated blog post on the Ember blog for each Alumnum to highlight their particular efforts in building, maintaining and improving the project, highlighting their greatest successes
+
+Releasing the blog post will act as the official announcement of a new Alumnum and will further the recognition of the work of this individual as soon as the change of team member status is official.
+
+An open question that still remains is, if we want to aim to make current Alumna part of this new process as well or if this new process is something we would like to leverage for future team members who halt their OSS work as part of an Ember Core team. This point is up for another, future discussion.
