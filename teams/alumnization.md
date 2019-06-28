@@ -26,3 +26,4 @@ An open question that still remains is, if we want to aim to make current Alumna
 
 ## Implementation
 If the Alumni process needs to occur, someone from that team should start the conversation. If the person that _should_ have the conversation is unable or unwilling to do so, they should give someone else on the team the opportunity to start the conversation.
+
