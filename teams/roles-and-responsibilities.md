@@ -8,9 +8,14 @@ As a bare minimum, core team members are expected to:
 - Interact thoughtfully:
     - with the community in an exemplary way - for better or for worse, the “core team” is often perceived as a unit, not as individuals
     - with other members of the core teams in a respectful way (do we need to say this?)
-- Participate in maintaining official project libraries
-    - Updating dependencies
-    - Reviewing PRs
+- Lead the official projects through some combination of
+    - Triaging issues
+    - Reviewing PRs and mentoring community contributors
+    - Answering community questions (Discord, [Discuss](https://discuss.emberjs.com/), Stack Overflow, etc)
+    - Supporting community documentation efforts
+    - Writing blog posts for emberjs.com
+    - Championing RFCs
+    - Supporting the release process
 - Attend weekly team meetings
 - Be reliable
     - If you say you can do something, do it
