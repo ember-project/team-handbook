@@ -45,7 +45,7 @@ There are many different ways to participate as a core team member- including, b
 - Writing RFCs
 - Leading projects (i.e., writing the quest issue, providing project management, hosting strike team calls)
 
-Lack of participation (either by declining to define defining goals or honoring commitments) is one of the indicators that becoming an emeritus should be considered. However, if goals have been defined, but a team member has a major life event, a sabbatical may be considered.
+Lack of participation (either by declining to define goals or honoring commitments) is one of the indicators that becoming an emeritus should be considered. However, if goals have been defined, but a team member has a major life event, a sabbatical may be considered.
 
 ## Sabbatical
 
