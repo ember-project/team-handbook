@@ -7,7 +7,7 @@ Providing the content and governance process proposals is the responsibility of 
 ## Outline
 - Teams
   - [ ] [Ember teams](teams/ember-teams.md)
-  - [ ] [roles and responsibilities](teams/roles-and-responsibilities.md)
+  - [x] [roles and responsibilities](teams/roles-and-responsibilities.md)
   - [ ] [joining a team](teams/joining-a-team.md)
   - [ ] [support & mentoring](teams/support-and-mentoring.md)
   - [ ] [emeritus process](teams/emeritus.md)
